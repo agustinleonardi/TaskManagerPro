@@ -1,0 +1,12 @@
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/bin/Debug/net8.0/TaskManagerPro.Domain.deps.json
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/bin/Debug/net8.0/TaskManagerPro.Domain.dll
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/bin/Debug/net8.0/TaskManagerPro.Domain.pdb
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.AssemblyInfoInputs.cache
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.AssemblyInfo.cs
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.csproj.CoreCompileInputs.cache
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.sourcelink.json
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.dll
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/refint/TaskManagerPro.Domain.dll
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/TaskManagerPro.Domain.pdb
+/Users/agustinleonardi/Desktop/CSharp/TaskManagerPro_V2/src/TaskManagerPro.Domain/obj/Debug/net8.0/ref/TaskManagerPro.Domain.dll
